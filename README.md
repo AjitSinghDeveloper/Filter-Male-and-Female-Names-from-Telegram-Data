@@ -15,6 +15,8 @@ Apply Gender Logic: It uses heuristic rules based on common male and female name
 Male Names: Names like "John," "David," or prefixes like "Mr."
 Female Names: Names like "Sarah," "Emma," or prefixes like "Ms."
 Filter and Categorize: The script categorizes the names into male and female lists.
+### Read This Also
+[![Telegram Fake User Filter Using Python](https://img.shields.io/badge/Telegram%20Fake%20User%20Filter-Using%20Python%20Easy%20To%20Use-red?style=for-the-badge)](https://github.com/AjitSinghDeveloper/Telegram-Fake-User-Filter-Using-Python)
 # Use Cases
 Targeted Messaging: Ideal for personalized marketing campaigns based on gender.
 Data Analysis: Helps analyze the gender distribution in Telegram name datasets.
